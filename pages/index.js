@@ -13,7 +13,7 @@ import Button from '@material-ui/core/Button';
 const Index = () => (
     <div>
     <Button variant="contained" color="primary">
-      Hello World
+      Welcome to Shopify Application 
     </Button>
     </div>
   );
